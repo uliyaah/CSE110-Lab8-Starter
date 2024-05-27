@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "CSE110-Lab8-Starter",
+    "short_name": "Uliyaah Dionisio",
+    "description": "Lab 8",
+    "start_url": "https://uliyaah.github.io/CSE110-Lab8-Starter/",
+    "display": "minimal-ui",
+    "background_color": "black",
+    "theme_color": "black",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
